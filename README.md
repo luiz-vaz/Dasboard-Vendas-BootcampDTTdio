@@ -11,6 +11,6 @@ Dashboard possui três Paginas:
 - **Relatório de Vendas Considerando Produtos e Segmentos**
 ![Screenshot do dashboard](./img/dash_venda_1.png)
 - **Relatório De Vendas Considerando Países e Lucro**
-![Screenshot do dashboard](./imagens/dash_venda_2.png)
+![Screenshot do dashboard](./img/dash_venda_2.png)
 - **Distribuição de Lucro, Vendas e Unidades Vendidas por País e Segmento**
--![Screenshot do dashboard](./imagens/dash_venda_3.png)
+-![Screenshot do dashboard](./img/dash_venda_3.png)
